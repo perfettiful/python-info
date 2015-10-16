@@ -1,0 +1,77 @@
+<!doctype html>
+<!-- montypytonprogramming.html          NP&WW-->
+<!-- ======================================== --> 
+<html>
+<head>
+<title> A Monty Introduction to the History of Programming in Python </title> 
+<link rel="stylesheet" type="text/css" href="MPython.css">
+</head>
+<h2>What is the Python Programming Language?</h2>
+<p></p>
+<h2>Background: Bio of Guido van Rossum</h2>
+<table>
+<tr>
+<td>
+<ul>
+<li>Guido van Rossum is the developer of the Python programming language</li>
+<li>Born on January 31, 1956 in the Netherlands</li>
+<li>Received a master's degree in mathematics and computer science from <br/>the University of Amsterdam in 1982</li>
+<li>Worked for the Dutch Centrim Wiskunde and Informatica in the Netherlands.</li>
+<li>In the United States, he worked for National Institute of Standards and Technology, <br/>and the Corporation for National Research Initiatives.</li>
+<li>Started writing Python in the 1990's</li>
+<li>Worked for Google starting in 2005</li>
+<li>Started working for Dropbox starting in 2012</li>
+</ul>
+</td>
+<td><img src="guido.jpg" alt="Guido van Rossum image"
+          onmouseover="this.src='guidogod.jpg';"
+          onmouseout="this.src='guido.jpg';">
+          <h2>Guido "The Benevolent Dictator For Life (BDFL)" van Rossum </td>
+</tr>
+</table>
+<h3>And Now for Something Completely Different...</h3>
+<p><iframe title="YouTube video player" class="youtube-player" type="text/html" width="960" height="720" src="http://www.youtube.com/embed/25Qhbdijv5Y?rel=0" frameborder="0"></iframe></p>
+<h2>Development of Python</h3>
+<table id=versions>
+<tr><th>Version</th><th>Release Date</th><th>New Features</th></tr>
+<tr><td>Python 1.0</td><td>January 1994</td><td>The functional programming tools: lambda, reduce(), filter() and map().</td></tr>
+<tr><td>Python 1.5</td><td>December 31, 1997</td><td>Keyword arguments, a built-in support for complex numbers, and a basic form of data hiding</td></tr>
+<tr><td>Python 1.6</td><td>September 5, 2000</td><td></td></tr>
+<tr><td>Python 2.0</td><td>October 16, 2000</td><td>List comprehensions and referene cycle collectors</td></tr>
+<tr><td>Python 2.1</td><td>April 17, 2001</td><td>A statically scoped language</td></tr>
+<tr><td>Python 2.2</td><td>December 21, 2001</td><td>Types and classes unifide into one hierarchy</td></tr>
+<tr><td>Python 2.3</td><td>July 29, 2003</td><td>Generators</td></tr>
+<tr><td>Python 2.4</td><td>November 30,2004</td><td></td></tr>
+<tr><td>Python 2.5</td><td>September 19, 2006</td><td></td></tr>
+<tr><td>Python 2.6</td><td>October 1, 2008</td><td></td></tr>
+<tr><td>Python 2.7</td><td>July 3, 2010</td><td></td></tr>
+<tr><td>Python 3.0</td><td>December 3, 2008</td><td>Making print() a built-in function instead of a statement and switching text strings to Unicode</td></tr>
+<tr><td>Python 3.1</td><td>June 27, 2009</td><td></td></tr>
+<tr><td>Python 3.2</td><td>February 20, 2011</td><td></td></tr>
+<tr><td>Python 3.3</td><td>September 29, 2012</td><td></td></tr>
+<tr><td>Python 3.4</td><td>March 16, 2014</td><td></td></tr>
+</table>
+<h3>And Now... The Punchline.</h3>
+<h2>Resources for Learning Python</h2>
+
+<ul>
+
+<li><b>WikiHow:</b> <a href="http://www.wikihow.com/Start-Programming-in-Python">http://www.wikihow.com/Start-Programming-in-Python</a>
+</li>
+<li><b>CodeAcademy:</b> <a href="http://www.codecademy.com/en/tracks/python">http://www.codecademy.com/en/tracks/python</a>
+</li>
+<li><b>Learn to Program:</b> The Fundamentals (University of Toronto):</b> <a href="https://www.coursera.org/course/programming1">https://www.coursera.org/course/programming1</a>
+</li>
+<li><b>An Introduction to Interactive Programming in Python (Rice University):</b> <a href="https://www.coursera.org/course/interactivepython"
+>https://www.coursera.org/course/interactivepython</a></li>
+<li><b>Programming for Everybody (University of Michigan):</b> <a href="https://www.coursera.org/course/interactivepython
+></a></li>
+<li><b>Introduction to Computer Science and Programming Using Python (edX):</b> <a href="https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0#.VIZ2P9XF940
+></a></li>
+<li><b>Programming Foundation with Python (Udacity):</b> <a href="https://www.udacity.com/course/ud036"
+>https://www.udacity.com/course/ud036</a></li>
+<li><b>Intro to Computer Science (Udacity):</b> <a href="https://www.udacity.com/course/cs101">https://www.udacity.com/course/cs101</a></li>
+<li><b>Intro to Data Science (Udacity):</b> <a href="https://www.udacity.com/course/ud359">https://www.udacity.com/course/ud359</a></li>
+<li><b>To learn more about the history of Monty Python's Flying Circus, check out John Cleese's new autobiography:</b> <a href="http://www.latimes.com/entertainment/movies/la-et-mn-john-cleese-20141118-story.html">Article in LA Times</a></li>
+</ul>
+</html>
